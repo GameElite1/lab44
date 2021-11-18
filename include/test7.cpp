@@ -8,7 +8,6 @@ std::vector<std::string> split(const std::string& str, char sep) {
   int n;
   n = str.length();
   std::string c = "";
-
   for (int i = 0; i < n; ++i)
     if (str[i] == sep) {
       a.push_back(c);
@@ -17,7 +16,6 @@ std::vector<std::string> split(const std::string& str, char sep) {
       c += str[i];
     };
   a.push_back(c);
-
   if (n == 0) {
     return b;
   }
