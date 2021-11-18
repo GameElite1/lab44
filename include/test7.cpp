@@ -14,7 +14,7 @@ std::vector<std::string> split(const std::string& str, char sep) {
       c = "";
     } else {
       c += str[i];
-    };
+    }
   a.push_back(c);
   if (n == 0) {
     return b;
