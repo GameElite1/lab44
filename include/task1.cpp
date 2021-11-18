@@ -4,7 +4,6 @@
 #include <header.hpp>
 float mean(const std::vector<float>& a) {
   int s = 0, n;
-
   n = size(a);
   if (n != 0) {
     for (int i = 0; i < n; ++i) {
