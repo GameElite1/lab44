@@ -32,7 +32,7 @@ find_package(GTest CONFIG REQUIRED)
 add_library(${PROJECT_NAME} STATIC
   # enum your files and delete this comment
   ${CMAKE_CURRENT_SOURCE_DIR}/sources/source.cpp
-)
+        include/task1.cpp include/task2.cpp include/task3.cpp include/task4.cpp include/test5.cpp include/task6.cpp include/test7.cpp include/task8.cpp)
 
 add_executable(demo
   ${CMAKE_CURRENT_SOURCE_DIR}/demo/main.cpp
