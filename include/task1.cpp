@@ -1,6 +1,7 @@
 //
 // Created by oleg on 17.11.2021.
 //
+//Copyright
 #include <header.hpp>
 float mean(const std::vector<float>& a) {
   int s = 0, n;

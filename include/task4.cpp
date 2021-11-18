@@ -1,6 +1,7 @@
 //
 // Created by oleg on 18.11.2021.
 //
+//Copyright
 #include <header.hpp>
 void sort(std::vector<float>& a) {
   int n;

@@ -1,6 +1,7 @@
 //
 // Created by oleg on 18.11.2021.
 //
+//Copyright
 #include <header.hpp>
 std::vector<std::string> split(const std::string& str, char sep) {
   std::vector<std::string> a;

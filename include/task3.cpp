@@ -1,6 +1,7 @@
 //
 // Created by oleg on 17.11.2021.
 //
+//Copyright
 #include <header.hpp>
 float argmax(const std::vector<float>& a) {
   int n, max = -999999, b;

@@ -1,6 +1,7 @@
 //
 // Created by oleg on 17.11.2021.
 //
+//Copyright
 #include <header.hpp>
 std::pair<float, float> minMax(const std::vector<float>& a) {
   float max = std::numeric_limits<float>::min();

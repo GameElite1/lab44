@@ -1,6 +1,7 @@
 //
 // Created by oleg on 18.11.2021.
 //
+//Copyright
 #include <header.hpp>
 std::string join(const std::vector<std::string>& a, const std::string& sep) {
   int n;

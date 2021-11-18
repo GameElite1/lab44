@@ -1,6 +1,7 @@
 //
 // Created by oleg on 18.11.2021.
 //
+//Copyright
 #include <header.hpp>
 bool remove_first_negative_element(std::vector<int>& vec,
                                    int& removed_element) {
